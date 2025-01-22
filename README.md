@@ -2,7 +2,7 @@
 
 ## Ricardo Marques
 
-### Herença e Polimorfismo
+### Herança e Polimorfismo
 
 
 <p align="center">
